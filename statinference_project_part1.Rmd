@@ -88,4 +88,4 @@ Note that the true rate, $\lambda$ is 5.
 
 
 The report including the code for plots is available at
-https://github.com/tademz/SInf/statinference_project_part1_full.md
+https://github.com/tademz/SInf/blob/master/statinference_project_part1_full.md
