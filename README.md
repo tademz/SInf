@@ -1,2 +1,0 @@
-# SInf
-Stat Inf
